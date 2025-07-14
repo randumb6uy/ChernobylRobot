@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bcu7fhunqo305"]
+
+[ext_resource type="Script" uid="uid://cdqtwgmdrbm3h" path="res://scripts/Global.gd" id="1_hqjfa"]
+
+[node name="Variables" type="Node"]
+script = ExtResource("1_hqjfa")
+move_speed = 200
+turn_speed = 0.04
